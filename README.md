@@ -8,3 +8,4 @@ This repository contains lectures and other data for the course "Matrix methods 
 4. [Optimization in machine learning problems](Lecture-3.ipynb)
 5. [Regression problem: standard methods](Lecture-4.ipynb)
 6. [Regression problem: quality measures and regularization](Lecture-5.ipynb)
+7. [SVM](Lecture-6.ipynb)
