@@ -10,3 +10,4 @@ This repository contains lectures and other data for the course "Matrix methods 
 6. [Regression problem: quality measures and regularization](Lecture-5.ipynb)
 7. [SVM](Lecture-6.ipynb)
 8. [Representation learning](Lecture-7.ipynb)
+9. [Clustering](Lecture-8.ipynb)
